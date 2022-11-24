@@ -1,0 +1,45 @@
+
+#product{
+	font-family:'Futura' ;
+	font-size:14pt ;
+	text-align:left ;
+	margin-left:20px ;
+	margin-right:20px ;
+}
+#price{
+	margin-top:25px ;
+	margin-bottom:25px ;
+	font-family:'Futura' ;
+	font-size:50pt ;
+	text-align:center ;
+}
+body{
+	background-color:#FFFFFF  ;
+}
+img{
+	height:30% ;
+	width:30% ;
+	border-radius: 4px;
+	padding: 5px;
+}
+h4{
+	font-family:'Futura' ;
+	font-size:15pt ;
+	text-align:center ;
+	margin-top:25px ;
+	margin-bottom:25px ;
+}
+button {
+	border:none;
+	border-radius:6x
+	outline: 0;
+	display:inline-block;
+	padding:12px;
+	color:#EFC6DD ;
+	background-color:whitesmoke ;
+	text-align:center ;
+	cursor:pointer ;
+	width:100% ;
+	font-size:18px ;
+	font-family:'Futura' ;
+}
